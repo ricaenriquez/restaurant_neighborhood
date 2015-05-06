@@ -1,0 +1,3 @@
+# restaurant_neighborhood
+
+The project entails analyzing the restaurant categories for various neighborhoods of a metropolitan area. Being new to an area, it's slow to know the different food cultures in the city, and it may take a while to find restaurants that's off the main city top hits. From a consumer's point of view, this analysis will help in finding pockets of gem restaurants. From a business perspective, finding those gem pockets, may help find a niche for a new restaurant concept. Different neighborhoods excel in different restaurant categories. Finding them is not so easy to find through Yelp. This analysis and its products aim to help. 
